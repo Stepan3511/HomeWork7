@@ -14,7 +14,7 @@ public class Cat {
     }
 
     void info() {
-        String isHungry = !hungry ? "Cыт" : "Голоден";
+        String isHungry = !hungry ? "Ссыт" : "Голоден";
         System.out.println(name + ": " + isHungry);
     }
 
